@@ -1,5 +1,0 @@
-colcon build
-source install/setup.sh
-
-ros2 run project_ros2_pkg image_subscriber --ros-args -p video_device:=/dev/video2 -p pixel_format:=mjpeg2rgb -p image_width:=1280 -p image_height:=720 -p framerate:=30.0
-
