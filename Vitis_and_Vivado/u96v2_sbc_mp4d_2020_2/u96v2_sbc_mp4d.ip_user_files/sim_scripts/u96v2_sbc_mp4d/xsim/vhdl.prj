@@ -1,0 +1,13 @@
+vhdl xil_defaultlib  \
+"../../../bd/u96v2_sbc_mp4d/ip/u96v2_sbc_mp4d_axi_intc_0_0/sim/u96v2_sbc_mp4d_axi_intc_0_0.vhd" \
+"../../../bd/u96v2_sbc_mp4d/ip/u96v2_sbc_mp4d_axi_smc_0/bd_0/ip/ip_1/sim/bd_53ee_psr_aclk_0.vhd" \
+"../../../bd/u96v2_sbc_mp4d/ip/u96v2_sbc_mp4d_rst_ps8_0_100M_0/sim/u96v2_sbc_mp4d_rst_ps8_0_100M_0.vhd" \
+"../../../bd/u96v2_sbc_mp4d/ip/u96v2_sbc_mp4d_axi_dma_0_0/sim/u96v2_sbc_mp4d_axi_dma_0_0.vhd" \
+"../../../../u96v2_sbc_mp4d.gen/sources_1/bd/u96v2_sbc_mp4d/ipshared/6d2d/hdl/vhdl/example_am_addmul_9ns_8ns_12ns_21_4_1.vhd" \
+"../../../../u96v2_sbc_mp4d.gen/sources_1/bd/u96v2_sbc_mp4d/ipshared/6d2d/hdl/vhdl/example_AXI_CPU_s_axi.vhd" \
+"../../../../u96v2_sbc_mp4d.gen/sources_1/bd/u96v2_sbc_mp4d/ipshared/6d2d/hdl/vhdl/example_regslice_both.vhd" \
+"../../../../u96v2_sbc_mp4d.gen/sources_1/bd/u96v2_sbc_mp4d/ipshared/6d2d/hdl/vhdl/example.vhd" \
+"../../../bd/u96v2_sbc_mp4d/ip/u96v2_sbc_mp4d_example_0_0/sim/u96v2_sbc_mp4d_example_0_0.vhd" \
+"../../../bd/u96v2_sbc_mp4d/sim/u96v2_sbc_mp4d.vhd" \
+
+nosort
