@@ -1,0 +1,5 @@
+[console_scripts]
+drawing_node = my_python_node.number_drawer:main
+motor_test = my_python_node.simple_node:main
+receive_node = my_python_node.receive_pos:main
+

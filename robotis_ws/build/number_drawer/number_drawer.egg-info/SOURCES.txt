@@ -1,0 +1,11 @@
+package.xml
+setup.py
+../../build/number_drawer/number_drawer.egg-info/PKG-INFO
+../../build/number_drawer/number_drawer.egg-info/SOURCES.txt
+../../build/number_drawer/number_drawer.egg-info/dependency_links.txt
+../../build/number_drawer/number_drawer.egg-info/entry_points.txt
+../../build/number_drawer/number_drawer.egg-info/requires.txt
+../../build/number_drawer/number_drawer.egg-info/top_level.txt
+../../build/number_drawer/number_drawer.egg-info/zip-safe
+number_drawer/__init__.py
+number_drawer/number_drawer.py
