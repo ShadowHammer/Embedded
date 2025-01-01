@@ -99,6 +99,15 @@ private:
         // Display the grayscale image
         cv::imshow("Grayscale Image", img_gray);
 
+        // Create matrix for the resized image
+        cv::Mat resizedImage;
+
+        // Change the size to 10x10 pixels
+        cv::resize(img_gray, resizedImage, cv::Size(10, 10));
+
+        // Save the changed image
+        cv::imwrite("resized_image.jpg", resizedImage);
+
         cv::waitKey(0);
     }
 };
