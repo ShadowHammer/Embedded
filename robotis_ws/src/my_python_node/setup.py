@@ -24,6 +24,8 @@ setup(
             'drawing_node = my_python_node.number_drawer:main',
             'motor_test = my_python_node.simple_node:main',
             'receive_node = my_python_node.receive_pos:main',
+            'array_to_img_node = my_python_node.array_to_img:main', 
+            'img_subscribe = my_python_node.image_subscriber:main',
         ],
     },
 )
